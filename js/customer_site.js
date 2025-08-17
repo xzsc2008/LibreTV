@@ -3,6 +3,10 @@ const CUSTOMER_SITES = {
         api: 'http://caiji.dyttzyapi.com/api.php/provide/vod',
         name: '电影天堂资源',
     }
+    heimuer: {
+        api: 'https://json.heimuer.xyz/api.php/provide/vod',
+        name: '黑木耳',
+    }
 };
 
 // 调用全局方法合并
