@@ -10,6 +10,12 @@ const CUSTOMER_SITES = {
         name: '黑木耳',
     }
 };
+const CUSTOMER_SITES = {
+    bfzy: {
+        api: 'https://bfzyapi.com/api.php/provide/vod',
+        name: '暴风资源',
+    }
+};
 // 调用全局方法合并
 if (window.extendAPISites) {
     window.extendAPISites(CUSTOMER_SITES);
