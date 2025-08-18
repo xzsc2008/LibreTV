@@ -2,15 +2,11 @@ const CUSTOMER_SITES = {
     dytt: {
         api: 'http://caiji.dyttzyapi.com/api.php/provide/vod',
         name: '电影天堂资源',
-    }
-};
-const CUSTOMER_SITES = {
+    },
     heimuer: {
         api: 'https://json.heimuer.xyz/api.php/provide/vod',
         name: '黑木耳',
-    }
-};
-const CUSTOMER_SITES = {
+    },
     bfzy: {
         api: 'https://bfzyapi.com/api.php/provide/vod',
         name: '暴风资源',
